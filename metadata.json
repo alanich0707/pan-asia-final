@@ -1,0 +1,9 @@
+{
+  "name": "PAN-ASIA PH Connect",
+  "description": "A comprehensive portal for Filipino migrant workers under PAN-ASIA, covering labor affairs, emergency services, medical records, and daily life essentials.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
